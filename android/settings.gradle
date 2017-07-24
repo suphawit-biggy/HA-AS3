@@ -1,0 +1,3 @@
+rootProject.name = 'AS4'
+
+include ':app'
